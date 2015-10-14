@@ -1,0 +1,10 @@
+<JavaCardProject name="PKIApplet">
+<USER>
+<PKG name="net.sourceforge.javacardsign.applet" aid="A0 00 00 00 63 50 4B 43 53 2D 31" major="1" minor="0">
+<CLASS name="FileNotFoundException"/>
+<CLASS name="FileSystem"/>
+<APPLET aid="A0 00 00 00 63 50 4B 43 53 2D 31 35" instanceaid="" parameter="" authority="" privileges="" index="18112" name="PKIApplet"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
