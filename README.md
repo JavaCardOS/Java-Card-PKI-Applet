@@ -23,6 +23,12 @@ The source code is released under LGPL and is currently only available from the 
 
 The libraries that we use are released under respective licenses described in the "lib" folder.
 
+Discussion
+=======
+
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=34) to ask and discuss.
+
+
 USAGE INSTRUCTIONS 
 =================
 
