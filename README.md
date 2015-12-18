@@ -6,6 +6,11 @@ INTRODUCTION
 
 This is the current release of the Java Card PKI host API and application. For more details see http://javacardsign.sourceforge.net.
 
+Building
+===
+
+Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
+
 REQUIREMENTS
 ============
 
