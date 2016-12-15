@@ -9,13 +9,13 @@ This is the current release of the Java Card PKI host API and application. For m
 Building
 ===
 
-Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=JCPKIApp) open this project,  Click "Buid All Packages(F7)" to build the source code.
+Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=PKIApp) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 REQUIREMENTS
 ============
 
 To run the host application you need Java Runtime Environment 1.6. To load the applet to a Java Card smart card you need a Java Card and
-Global Platform compliant applet loader, e.g. pyApduTool from http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38?ws=github&prj=JCPKIApp
+Global Platform compliant applet loader, e.g. pyApduTool from http://javacardos.com/javacardforum/viewtopic.php?f=3&t=38?ws=github&prj=PKIApp
 Whatever card you use it needs to support the following Java Card API/crypto:
 
   ALG_RSA_SHA_PKCS1, ALG_RSA_NOPAD, ALG_SHA, ALG_SECURE_RANDOM,
@@ -31,7 +31,7 @@ The libraries that we use are released under respective licenses described in th
 Discussion
 =======
 
-Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=34?ws=github&prj=JCPKIApp) to ask and discuss.
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=34?ws=github&prj=PKIApp) to ask and discuss.
 
 
 USAGE INSTRUCTIONS 
@@ -63,4 +63,4 @@ Creating a PKI card
 5.  The "Signature & Authentication" tab works in a similar way. Data to be signed or encrypted is entered in a corresponding box. The  signing/encryption algorithm can be configured with the radio  buttons. The Sign button will do the required cryptograhic operation on the card after asking for the PIN. The result will appear in the "Signature" box. Here you can also verify the signature with using the card's certificate. Just press Verify.
 6. The "Challenge" tab can be used at any point to prompt the PKI card  for a challenge. This challenge can be used as a data to be signed  in the signature tab. 
   
-  You can visit "http://javacardos.com/javacardforum/viewforum.php?f=34?ws=github&prj=JCPKIApp" to get more informations.
+  You can visit "http://javacardos.com/javacardforum/viewforum.php?f=34?ws=github&prj=PKIApp" to get more informations.
