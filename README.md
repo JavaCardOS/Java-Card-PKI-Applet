@@ -9,7 +9,7 @@ This is the current release of the Java Card PKI host API and application. For m
 Building
 ===
 
-Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43) open this project,  Click "Buid All Packages(F7)" to build the source code.
+Using [JCIDE](http://javacardos.com/javacardforum/viewtopic.php?f=26&t=43?ws=github&prj=JCPKIApp) open this project,  Click "Buid All Packages(F7)" to build the source code.
 
 REQUIREMENTS
 ============
@@ -31,7 +31,7 @@ The libraries that we use are released under respective licenses described in th
 Discussion
 =======
 
-Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=34) to ask and discuss.
+Have doubts? You can visit [Here](http://javacardos.com/javacardforum/viewforum.php?f=34?ws=github&prj=JCPKIApp) to ask and discuss.
 
 
 USAGE INSTRUCTIONS 
